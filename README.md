@@ -1,7 +1,9 @@
 # What is it
 
-This project is a solution written in Ruby for Google Hash Code Pizza Subset Sum. This code is an idea about how to solve the challenger.
+This repo is a list of some Google Hash code challenges solutions I've made. All of the code available here is only an idea about how to solve the challenges.
 
-The challenge descript is avaible on `challenge.pdf`
+Each folder present here is a Google Hash Code. In the folder, there is a solution and the challenge description (`challenge.pdf / challenge.png / challenge.jpg`)
 
-Probably you will notice the code doesn't work very well with `e_also_big.in`. Feel free to solve it and open a Pull Request ;)
+Feel free to use my code but I encourage you to do not copy all code and use them as if were created by you. Try to read code, understand and improve it, do your best :D Moreover, if your code were better than mine, please open here a pull-request 8) 8)
+
+If you have any questions, If you have any questions, mailing me ;)
